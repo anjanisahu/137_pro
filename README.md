@@ -1,1 +1,2 @@
-# 137_pro
+# Planet-Api-App
+Get planets details
